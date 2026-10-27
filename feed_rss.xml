@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Tech News</title>
+        <link>https://www.technews.com</link>
+        <description>Las últimas novedades tecnológicas</description>
+
+        <item>
+            <title>Nueva actualización de software</title>
+            <link>https://www.technews.com/nueva-actualizacion</link>
+            <description>Se ha lanzado una nueva versión del software ABC con mejoras de seguridad.</description>
+            <pubDate>Wed, 25 Oct 2023 12:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Avances en inteligencia artificial</title>
+            <link>https://www.technews.com/avances-ia</link>
+            <description>Los últimos avances en inteligencia artificial están cambiando el mundo de la tecnología.</description>
+            <pubDate>Thu, 26 Oct 2023 08:30:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Evento de lanzamiento del nuevo smartphone</title>
+            <link>https://www.technews.com/evento-smartphone</link>
+            <description>Se ha anunciado un nuevo evento para presentar el smartphone del año.</description>
+            <pubDate>Fri, 27 Oct 2023 09:45:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>
